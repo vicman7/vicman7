@@ -1,8 +1,15 @@
 ## Hi there 👋
 
-<!--
-**vicman7/vicman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Capsule render](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Tapias)
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+</div>  
+
+## About me
 
 - ⚡️ Power lines engineer at [HMV Ingenieros](https://www.h-mv.com/General/Index.aspx?Lang=es-CO)
 - 👨🏻‍💻 I am working toward becoming a [data engineer](https://platzi.com/ruta/data-engineer/?school=_escuela_datos_)
