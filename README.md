@@ -10,8 +10,8 @@
 
 ## Personal projects
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fvicman7.github.io%2Fabout%2F&up_message=Victor%20Tapias)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvicman7.github.io%2Fabout%2F&up_message=Victor%20Tapias)](https://vicman7.github.io/about/)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vicman7/hyperblog)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vicman7/hyperblog)](https://github.com/vicman7/hyperblog)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vicman7/vicman7.github.io)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vicman7/vicman7.github.io)](https://github.com/vicman7/vicman7.github.io)
