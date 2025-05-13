@@ -22,3 +22,6 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vicman7/hyperblog)](https://github.com/vicman7/hyperblog)
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vicman7/vicman7.github.io)](https://github.com/vicman7/vicman7.github.io)
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
