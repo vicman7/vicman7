@@ -23,7 +23,7 @@
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vicman7/vicman7.github.io)](https://github.com/vicman7/vicman7.github.io)
 
-### :zap: Actividad reciente
+### :zap: Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [AprendizajeAutonomo/.github](https://github.com/AprendizajeAutonomo/.github)<br>
 2. 📔 Created new repository [AprendizajeAutonomo/.github](https://github.com/AprendizajeAutonomo/.github)<br>
